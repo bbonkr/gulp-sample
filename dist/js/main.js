@@ -1,0 +1,1 @@
+function print(){console.log("message")}function print2(o){console.log(o)}function messagebox(){alert("Hello World!")}

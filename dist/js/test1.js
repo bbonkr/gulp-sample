@@ -1,0 +1,1 @@
+function print(){console.log("message")}function print2(n){console.log(n)}
